@@ -33,7 +33,7 @@ Follow these steps to install and set up the ChatGPT Python chatbot:
 
 1. `pip install openai`
     
-2. Open the `chatbot.py` file in a text editor of your choice.
+2. Open the `main.py` file in a text editor of your choice.
     
 3. Replace `'YOUR_API_KEY'` with your actual OpenAI API key in the `api_key` variable.
     
