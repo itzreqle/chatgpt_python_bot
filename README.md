@@ -15,22 +15,14 @@ Follow these steps to install and set up the ChatGPT Python chatbot:
 
 1. Clone this repository to your local machine:
     
-    bash
-    
-
 - `git clone https://github.com/itzreqle/chatgpt_python_bot.git`
     
 - Navigate to the project directory:
-    
-    bash
     
 - `cd chatgpt_python_bot`
     
 - Install the required Python packages using pip:
     
-    bash
-    
-
 1. `pip install openai`
     
 2. Open the `main.py` file in a text editor of your choice.
@@ -44,16 +36,10 @@ To use the ChatGPT Python chatbot, follow these steps:
 
 1. Open a terminal window and navigate to the project directory:
     
-    bash
-    
-
 - `cd chatgpt_python_bot`
     
 - Run the chatbot script:
     
-    bash
-    
-
 1. `python main.py`
     
 2. You will see a message indicating that the chatbot is ready: "ChatGPT: Hello! How can I assist you today?"
