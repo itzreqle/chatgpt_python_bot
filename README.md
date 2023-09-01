@@ -23,11 +23,11 @@ Follow these steps to install and set up the ChatGPT Python chatbot:
     
 - Install the required Python packages using pip:
     
-1. `pip install openai`
+2. `pip install openai`
     
-2. Open the `main.py` file in a text editor of your choice.
+3. Open the `main.py` file in a text editor of your choice.
     
-3. Replace `'YOUR_API_KEY'` with your actual OpenAI API key in the `api_key` variable.
+4. Replace `'YOUR_API_KEY'` with your actual OpenAI API key in the `api_key` variable.
     
 
 ## Usage
@@ -40,15 +40,15 @@ To use the ChatGPT Python chatbot, follow these steps:
     
 - Run the chatbot script:
     
-1. `python main.py`
+2. `python main.py`
     
-2. You will see a message indicating that the chatbot is ready: "ChatGPT: Hello! How can I assist you today?"
+3. You will see a message indicating that the chatbot is ready: "ChatGPT: Hello! How can I assist you today?"
     
-3. Type your questions or statements as input and press Enter.
+4. Type your questions or statements as input and press Enter.
     
-4. The chatbot will generate responses based on your input and display them in the terminal.
+5. The chatbot will generate responses based on your input and display them in the terminal.
     
-5. To exit the chatbot, simply type "exit" and press Enter. The chatbot will respond with "ChatGPT: Goodbye!" and close.
+6. To exit the chatbot, simply type "exit" and press Enter. The chatbot will respond with "ChatGPT: Goodbye!" and close.
     
 
 ## Customization
