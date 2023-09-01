@@ -18,13 +18,13 @@ Follow these steps to install and set up the ChatGPT Python chatbot:
     bash
     
 
-- `git clone https://github.com/yourusername/chatgpt-python-chatbot.git`
+- `git clone https://github.com/itzreqle/chatgpt_python_bot.git`
     
 - Navigate to the project directory:
     
     bash
     
-- `cd chatgpt-python-chatbot`
+- `cd chatgpt_python_bot`
     
 - Install the required Python packages using pip:
     
@@ -47,14 +47,14 @@ To use the ChatGPT Python chatbot, follow these steps:
     bash
     
 
-- `cd chatgpt-python-chatbot`
+- `cd chatgpt_python_bot`
     
 - Run the chatbot script:
     
     bash
     
 
-1. `python chatbot.py`
+1. `python main.py`
     
 2. You will see a message indicating that the chatbot is ready: "ChatGPT: Hello! How can I assist you today?"
     
@@ -67,7 +67,7 @@ To use the ChatGPT Python chatbot, follow these steps:
 
 ## Customization
 
-You can customize the behavior of the chatbot by modifying the `chat_with_gpt` function in the `chatbot.py` file. You can change the `max_tokens` parameter, adjust the prompts, or add more sophisticated conversation management logic.
+You can customize the behavior of the chatbot by modifying the `chat_with_gpt` function in the `main.py` file. You can change the `max_tokens` parameter, adjust the prompts, or add more sophisticated conversation management logic.
 
 ## License
 
