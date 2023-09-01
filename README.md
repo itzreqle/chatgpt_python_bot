@@ -15,19 +15,19 @@ Follow these steps to install and set up the ChatGPT Python chatbot:
 
 1. Clone this repository to your local machine:
     
-- `git clone https://github.com/itzreqle/chatgpt_python_bot.git`
+`git clone https://github.com/itzreqle/chatgpt_python_bot.git`
     
-- Navigate to the project directory:
+2. Navigate to the project directory:
     
-- `cd chatgpt_python_bot`
+`cd chatgpt_python_bot`
     
-- Install the required Python packages using pip:
+3. Install the required Python packages using pip:
     
-2. `pip install openai`
+`pip install openai`
     
-3. Open the `main.py` file in a text editor of your choice.
+4. Open the `main.py` file in a text editor of your choice.
     
-4. Replace `'YOUR_API_KEY'` with your actual OpenAI API key in the `api_key` variable.
+5. Replace `'YOUR_API_KEY'` with your actual OpenAI API key in the `api_key` variable.
     
 
 ## Usage
@@ -36,19 +36,19 @@ To use the ChatGPT Python chatbot, follow these steps:
 
 1. Open a terminal window and navigate to the project directory:
     
-- `cd chatgpt_python_bot`
+`cd chatgpt_python_bot`
     
-- Run the chatbot script:
+2. Run the chatbot script:
     
-2. `python main.py`
+`python main.py`
     
-3. You will see a message indicating that the chatbot is ready: "ChatGPT: Hello! How can I assist you today?"
+You will see a message indicating that the chatbot is ready: "ChatGPT: Hello! How can I assist you today?"
     
-4. Type your questions or statements as input and press Enter.
+Type your questions or statements as input and press Enter.
     
-5. The chatbot will generate responses based on your input and display them in the terminal.
+The chatbot will generate responses based on your input and display them in the terminal.
     
-6. To exit the chatbot, simply type "exit" and press Enter. The chatbot will respond with "ChatGPT: Goodbye!" and close.
+3. To exit the chatbot, simply type "exit" and press Enter. The chatbot will respond with "ChatGPT: Goodbye!" and close.
     
 
 ## Customization
