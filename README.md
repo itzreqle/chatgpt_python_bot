@@ -15,7 +15,7 @@ Follow these steps to install and set up the ChatGPT Python chatbot:
 
 1. Clone this repository to your local machine:
     
-`git clone https://github.com/itzreqle/chatgpt_python_bot.git`
+    `git clone https://github.com/itzreqle/chatgpt_python_bot.git`
     
 2. Navigate to the project directory:
     
